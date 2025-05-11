@@ -10,7 +10,8 @@ Filter news by date & language.
 Theme mode.
 
 ## ScreesShot
-![1](https://github.com/user-attachments/assets/18f03708-6424-41a0-ac7f-a50bf7bb7663
+
+![IMG-20250511-WA0008](https://github.com/user-attachments/assets/f6ac2566-f2dc-4e86-ae06-45c96378fa2e)
 
 
 ![IMG-20250511-WA0009](https://github.com/user-attachments/assets/5eaaa114-83c6-4063-8a49-e4b4541b80c7)
