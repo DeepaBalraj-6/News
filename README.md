@@ -23,9 +23,13 @@ A customizable video UI with controls like play, pause, fullscreen, seek bar, an
 ## Features
 
 **->Daily news.**
+
 **->Search option.**
+
 **->Filter news by date & language.**
+
 **->Theme mode.**
+
 
 ## ScreesShot
 
