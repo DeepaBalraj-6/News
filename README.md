@@ -4,8 +4,8 @@ Flutter Project with rest api.
 
 ## Dependencies
 
-**http: ^1.3.0**   
-   This is to make REST API call | fetch data from the internet.
+[**http: ^1.3.0**]  
+This is to make REST API calls | fetch data from the internet.
 **cupertino_icons: ^1.0.8**
    Provides Apple's Cupertino-style icons . Used to give the UI an iOS-like attractive appearance.
 **font_awesome_flutter: ^10.7.0**
