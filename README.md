@@ -4,16 +4,16 @@ Flutter Project with rest api.
 
 ## Dependencies
 
-[**http: ^1.3.0**]  
+**http: ^1.3.0**
 This is to make REST API calls | fetch data from the internet.
 **cupertino_icons: ^1.0.8**
-   Provides Apple's Cupertino-style icons . Used to give the UI an iOS-like attractive appearance.
+Provides Apple's Cupertino-style icons . Used to give the UI an iOS-like attractive appearance.
 **font_awesome_flutter: ^10.7.0**
-   Offers access to the Font Awesome icon library, which includes a wide variety of solid, stylish, and brand icons.
+Offers access to the Font Awesome icon library, which includes a wide variety of solid, stylish, and brand icons.
 **video_player: ^2.8.1** 
-   Supports playing video files from network URLs, assets, or local storage.It provides core video playback functionality.
+Supports playing video files from network URLs, assets, or local storage.It provides core video playback functionality.
  **chewie: ^1.7.4**   
-   A customizable video UI with controls like play, pause, fullscreen, seek bar, and more.
+A customizable video UI with controls like play, pause, fullscreen, seek bar, and more.
 
 ## Features
 
