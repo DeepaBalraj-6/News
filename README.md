@@ -33,13 +33,15 @@ A customizable video UI with controls like play, pause, fullscreen, seek bar, an
 
 ## ScreesShot
 
-![IMG-20250511-WA0008](https://github.com/user-attachments/assets/f6ac2566-f2dc-4e86-ae06-45c96378fa2e)
+<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 40px; background-color: #afb0af; padding: 10px;">
+  <img src="https://github.com/user-attachments/assets/f6ac2566-f2dc-4e86-ae06-45c96378fa2e" alt="IMG-20250511-WA0008" width="150" height="300" style="object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/5eaaa114-83c6-4063-8a49-e4b4541b80c7" alt="IMG-20250511-WA0009" width="150" height="300" style="object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/4dd515dc-4508-455a-a403-a2e43ffd2d65" alt="IMG-20250511-WA0007" width="150" height="300" style="object-fit: cover;" />
+</div>
+
+<div style="display: flex; justify-content: center; gap: 30px;">
+  <img src="https://github.com/user-attachments/assets/60eeebd2-f8e7-4de5-92db-84638e1c94f4" alt="IMG-20250511-WA0006" width="150" height="300" style="object-fit: cover;" />
+  <img src="https://github.com/user-attachments/assets/7a27dfd3-558a-4e32-8c61-4c0442af40f6" alt="IMG-20250511-WA0005" width="150" height="300" style="object-fit: cover;" />
+</div>
 
 
-![IMG-20250511-WA0009](https://github.com/user-attachments/assets/5eaaa114-83c6-4063-8a49-e4b4541b80c7)
-
-![IMG-20250511-WA0007](https://github.com/user-attachments/assets/4dd515dc-4508-455a-a403-a2e43ffd2d65)
-
-![IMG-20250511-WA0006](https://github.com/user-attachments/assets/60eeebd2-f8e7-4de5-92db-84638e1c94f4)
-
-![IMG-20250511-WA0005](https://github.com/user-attachments/assets/7a27dfd3-558a-4e32-8c61-4c0442af40f6)
